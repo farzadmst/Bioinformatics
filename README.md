@@ -1,2 +1,2 @@
 # Bioinformatics
-In this repository, I am going to share my experience and steps in learning bioinformatics
+In this repository, I will document and share my journey of learning bioinformatics, including the steps, resources, and projects I explore along the way.
