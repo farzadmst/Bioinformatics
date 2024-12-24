@@ -1,6 +1,5 @@
 
 import collections
-from struture import *
 Nucleotides=["A","C","G","T"]
 DNA_ReverseComplement={"A":"T","T":"A","G":"C","C":"G"}
 
@@ -20,7 +19,6 @@ def countNucFrequency(seq):
 
 #Transcription
 def transcription(seq):
-    """DNA--> RNA"""
     return seq.replace("T","U")
 
 #reverse complement
